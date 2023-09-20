@@ -10,10 +10,7 @@
                 <a class="nav-link" href="index.php" style="color : #6e4403;"><b>Home</b></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="createuser.php" style="color : #6e4403;"><b>Create User</b></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="transfermoney.php" style="color : #6e4403;"><b>Transfer Money</b></a>
+                <a class="nav-link" href="transfermoney.php" style="color : #6e4403;"><b>View Customers</b></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="transactionhistory.php" style="color : #6e4403;"><b>Transaction History</b></a>

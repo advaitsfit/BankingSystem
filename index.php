@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
 
-    <title>Investec Bank</title>
+    <title>Smart Bank</title>
     <?php
   include 'navbar.php';
   ?>
@@ -35,16 +35,10 @@
       <!-- Activity section -->
             <div class="row activity text-center">
                   <div class="col-md act">
-                    <br><br>
+                  <br><br>
                     <img src="img/user.png" class="img-fluid">
                     <br>
-                    <a href="createuser.php"><button style="background-color : #2785C4;">Create a User</button></a>
-                  </div>
-                  <div class="col-md act">
-                  <br><br>
-                    <img src="img/transfer.png" class="img-fluid">
-                    <br>
-                    <a href="transfermoney.php"><button style="background-color : #2785C4;">Make a Transaction</button></a>
+                    <a href="transfermoney.php"><button style="background-color : #2785C4;">View Customers</button></a>
                   </div>
                   <div class="col-md act">
                   <br><br>
